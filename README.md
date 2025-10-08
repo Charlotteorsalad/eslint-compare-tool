@@ -28,7 +28,7 @@ Then run:
 - pip install -r requirements.txt
 
 ## Download Executable
-Download eslint_compare_tool.exe from the repository (in dist/ folder).
+Download eslint_compare_tool.exe from the repository.
 No installation needed for the executable.
 
 ## Usage with Source Code
@@ -49,11 +49,15 @@ Check output/ for results.
 - Download eslint_compare_tool.exe.
 - Place it in a directory with old/ and new/ folders containing HTML reports.
 - Double-click eslint_compare_tool.exe to run.
+  <img width="1717" height="866" alt="image" src="https://github.com/user-attachments/assets/adcdcf19-beb9-4656-bb8a-69070c9111ca" />
+
 - Results will be in output/.
 
 ## Output
 eslint_new_issues.csv: CSV file with new issues.
 eslint_new_issues.xlsx: Excel file with merged cells and auto-adjusted columns.
+<img width="1487" height="161" alt="image" src="https://github.com/user-attachments/assets/b29cf9bc-6a6e-4192-93ed-731ef1f7c0ad" />
+
 
 ## Notes
 The tool assumes one HTML file per folder (uses the first file found).
