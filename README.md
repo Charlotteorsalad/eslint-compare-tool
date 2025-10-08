@@ -1,4 +1,4 @@
-### ESLint Compare Tool
+# ESLint Compare Tool
 A Python tool to compare ESLint HTML reports, identify new issues, and generate CSV/Excel outputs. Includes source code and a Windows executable.
 
 ## Overview
@@ -11,7 +11,7 @@ This tool parses ESLint HTML reports from old/ and new/ folders, compares them t
 - Ignores build-work related files.
 
 ## Installation
-# Prerequisites
+### Prerequisites
 Python 3.x (for source code)
 Required Python packages (install via pip):
 - beautifulsoup4
